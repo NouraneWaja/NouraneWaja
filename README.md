@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8w18haK9jQdlnhNe8ouASYOc-4RNRjkxUaA&s" alt="laravel" width="40" height="40"/> 
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -80,7 +80,7 @@
 </a>
 </p>
 
-<h3 align="center">🔥 My Stats:</h3>
+<h3>🔥 My Stats:</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
