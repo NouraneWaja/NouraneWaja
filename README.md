@@ -79,11 +79,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 </p>
-
-<h3>🔥 My Stats:</h3>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=NouraneWaja&theme=vue-dark&hide_border=true" alt="GitHub Streak">
-  </a>
-</div>
